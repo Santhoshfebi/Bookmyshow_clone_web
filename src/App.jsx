@@ -5,7 +5,7 @@ import Navbar from './components/Navbar';
 import SeatBooking from './pages/SeatBooking';
 import Watchlist from './pages/Watchlist';
 import MyBookings from './pages/MyBookings';
-import './index.css';
+// import './index.css';
 
 const App = () => (
   <Router>
